@@ -316,7 +316,7 @@ ul li a:hover{text-decoration:none;}
 	 <img src="img/istockphoto-516324258-612x612.jpg" height="300px" width="100%">
 	</div>
 	 <div class="container">
-	 <p style="font-family: 'Lobster', cursive; font-weight:light;  font-size:25px;">food Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+	 <p style="font-family: 'Lobster', cursive; font-weight:light;  font-size:25px;">Food hunt is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
 	 </div>
 	
 	</div>

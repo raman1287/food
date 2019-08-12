@@ -209,7 +209,7 @@ ul li {list-style:none;}
 <div class="container-fluid" style="background:black; opacity:0.30;">
 <h1 style="color:white; text-align:center; text-transform:uppercase;">we do this by</h1>
 <h3 style="color:white; text-align:center; text-transform:uppercase;">Helping people discover great places around them.</h3>
-<p style="color:white; text-align:center; font-size:25px;">Our team gathers information from every restaurant on a regular basis to ensure our data is fresh. Our vast community of food lovers share their reviews and photos, so you have all that you need to make an informed choice.</p>
+<p style="color:white; text-align:center; font-size:25px;">Team gathers information from every restaurant on a regular basis to ensure our data is fresh. Our vast community of food lovers share their reviews and photos, so you have all that you need to make an informed choice.</p>
 
 <h3 style="color:white; text-align:center; text-transform:uppercase;">Building amazing experiences around dining.</h3>
 <p style="color:white; text-align:center; font-size:25px;">Starting with information for over 1 million restaurants (and counting) globally, we're making dining smoother and more enjoyable with services like online ordering and table reservations.</p>

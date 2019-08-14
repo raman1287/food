@@ -140,7 +140,7 @@ ul li {list-style:none;}
 <!--navbar ends-->
 <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
   
-    <a class="navbar-brand" href="index.php"><span style="color:green;font-family: 'Permanent Marker', cursive;">Food Hunt</span></a>
+    <a class="navbar-brand" href="index.php"><span style="color:green;font-family: 'Permanent Marker', cursive;">The Good Cheff</span></a>
     <?php
 	if(!empty($cust_id))
 	{

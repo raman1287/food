@@ -1,4 +1,6 @@
 <?php
+
+// hi these changes are doen by me -- Jayant
 include("connection.php");
 extract($_REQUEST);
 session_start();

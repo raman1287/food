@@ -1,4 +1,6 @@
 <?php 
+
+//include db connection file
 include('connection.php');
 //echo $id=$_GET['id'];
 if(isset($_GET['id']))
